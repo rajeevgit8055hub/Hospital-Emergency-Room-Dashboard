@@ -75,15 +75,5 @@ While this dashboard is a strong starting point, it also opens doors to future e
 
 ---
 
-## 🙏 Special Thanks
-A heartfelt thank you to **Mr. Satish Dhawale Sir**, Founder & CEO of Skill Course, whose practical, structured, and beginner-friendly teaching made this project possible. His mentorship helped me build not only the technical skills but also the confidence to work on real-world data challenges.
-
----
-
-## 📌 Tags
-`Excel MIS` • `Healthcare Dashboard` • `Emergency Room Analysis` • `Data Visualization` • `MIS Project` • `Satish Dhawale Sir` • `Excel Dashboard Design` • `Patient Analytics` • `Beginner Excel Project` • `Microsoft Excel`
-
----
-
 ## 🖼️ Dashboard Snapshot
 ![Hospital Emergency Room Dashboard](Hospital.jpeg)
