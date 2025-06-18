@@ -76,4 +76,4 @@ While this dashboard is a strong starting point, it also opens doors to future e
 ---
 
 ## 🖼️ Dashboard Snapshot
-![Hospital Emergency Room Dashboard](Hospital.jpeg)
+![Hospital Emergency Room Dashboard](Hospital.png)
