@@ -96,13 +96,15 @@ This project lays a strong foundation but also opens doors for **further innovat
 
 ## 🖼️ Dashboard Snapshots
 
-### 🔹 Version 1 – Initial Hospital ER Image
+### 🔹 Version 1 – Final Hospital Emergency Room Dashboard (Refined)
+![Final Dashboard](./Final%20Hospital%20Emergency%20Room%20Dashboard.png)
+
+
+### 🔹 Version 2 – Initial Hospital ER Image
 ![Hospital Dashboard](./Hospital.png)
 
 ---
 
-### 🔹 Version 2 – Final Hospital Emergency Room Dashboard (Refined)
-![Final Dashboard](./Final%20Hospital%20Emergency%20Room%20Dashboard.png)
 
 ---
 
