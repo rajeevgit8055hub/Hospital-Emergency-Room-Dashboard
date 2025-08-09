@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Dashboard – Excel MIS Project
+# 🏥 Hospital Emergency Room Dashboard – MIS Project
 
 ---
 
