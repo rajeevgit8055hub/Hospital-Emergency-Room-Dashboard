@@ -3,6 +3,8 @@
 ---
 
 📊 **My first Excel MIS Dashboard project analyzing Hospital ER performance**  
+
+
 Built using Excel tools like Pivot Tables, Sparklines, Conditional Formatting, and Charts to track patient count, wait times, referrals, and more.  
 A hands-on project completed during my data analytics learning journey.
 
@@ -68,7 +70,7 @@ The dashboard offers a consolidated view of essential metrics through a combinat
 - **Source:** Self-created dataset for learning purposes  
 - **Records:** Contains patient-level ER visit information for a defined time period  
 - **Key Fields:**
-- 
+
   - Patient ID
   - Date of Visit
   - Waiting Time (Minutes)
