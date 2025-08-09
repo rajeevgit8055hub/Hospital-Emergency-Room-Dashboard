@@ -17,6 +17,7 @@ This project is my **first end-to-end Excel MIS Dashboard**, built during the fo
 The dashboard focuses on **real-time Emergency Room (ER) data** for a hospital and showcases how Excel can be a powerful tool for **data-driven decision-making** in the healthcare domain.
 
 It enables healthcare administrators to:
+
 - Visualize key performance metrics  
 - Reduce service delays  
 - Make timely operational improvements  
@@ -30,6 +31,7 @@ Hospitals often face challenges in **managing emergency room (ER) operations eff
 Without a centralized reporting system, decision-makers struggle to identify peak load periods, track wait times, and improve patient satisfaction.
 
 This project addresses those challenges by:
+
 - Consolidating ER performance data in one place  
 - Providing quick, visual insights to hospital management  
 - Highlighting operational bottlenecks and improvement areas  
@@ -92,7 +94,7 @@ This dashboard was built **entirely in Microsoft Excel**, utilizing:
 - 🌟 **Sparklines** – Trend indicators for daily ER visits  
 - 🎨 **Conditional Formatting** – Highlighted abnormal patterns or KPIs visually  
 - 🧠 **Excel Formulas** – Used:
-- 
+  
   - `IF()`, `AVERAGEIF()`, `COUNTIF()`  
   - `INDEX-MATCH()`, `SUMIFS()`  
   - Logical and aggregation functions for automation  
